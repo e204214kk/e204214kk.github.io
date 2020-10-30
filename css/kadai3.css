@@ -1,0 +1,21 @@
+body{
+    background-image: url(..//images/zoom_fukuoka.png)
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+h2{
+     font-size: 20px;
+     color: black;
+     background-color: greenyellow;
+    text-align: center;
+}
+h3{
+     font-size: 15px;
+      color: blue;
+    text-align: ;
+}

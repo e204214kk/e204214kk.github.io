@@ -1,0 +1,15 @@
+body{
+    background-image: url(..//images/zoom_fukuoka.png)
+}
+
+h1{
+    color: #ff15ff;
+    font-size: 69px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+p{
+      background-color: azure;
+}
