@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/moyou.jpeg)
+}
+
+h1.syumi{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h2.eiga{
+    text-align: center;
+    background-color: lightblue;
+    color: dimgrey
+}
+
+h2.shosetu{
+    text-align: center;
+    background-color: palevioletred;
+    color: brown
+}
+
+h1#kudo{
+    text-align: center;
+    background-color: darkgreen;
+    color: coral;
+
+    }
+
