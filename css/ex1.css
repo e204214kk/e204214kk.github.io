@@ -2,6 +2,9 @@ body{
     background-image: url(../images/zoom_fukuoka.png);
     
 }
+img{
+    object-fit: cover
+}
 
 h1{
     text-align: center;
