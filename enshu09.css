@@ -1,0 +1,22 @@
+/*pタグの中でもbluecolorクラスのものだけ装飾*/
+p.bluecolor{
+    color: blue;
+}
+
+h1#kudo{
+    font-family: impact;
+    font-size: 60px;
+}
+
+/*cssの優先順位*/
+h2{
+    color: red;　! important;
+}
+
+h2{
+    color: green;
+}
+
+h2:hover{
+    background-color: beige;
+}

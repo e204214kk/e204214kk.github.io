@@ -1,0 +1,26 @@
+body{
+    background-image: url(../images/zoom_fukuoka.png);
+    
+}
+img{
+    object-fit: cover
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: aquamarine;
+}
+
+h2{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+table{
+    background-color: aquamarine
+}
+
+ol{
+background-image: url(../images/00.png)
+}
