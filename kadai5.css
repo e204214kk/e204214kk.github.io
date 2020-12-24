@@ -1,0 +1,61 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aqua;
+    margin: 0px 0px 10px 200px;
+}
+
+
+
+div.hidari{
+    display: inline-block;
+    width: 250px;
+    height: 320px; 
+    margin: 0px 10px 0px 200px;
+}
+
+div.migi{
+    display: inline-block;
+    width: 100px;
+    height: 320px;
+    margin: 0px 0px 0px 50px;
+}
+
+div.menu1{
+
+    display: block;
+    width: 250px;
+    height: 150px;
+    margin: 0px 0px 10px 0px;
+        background-color: red;
+
+}
+
+div.menu2{
+    display: block;
+    width: 700px;
+    height: 310px;
+    background-color: black;
+    margin: 0px 0px 10px 0px;
+}
+
+div.menu3{
+    display: block;
+    width: 700px;
+    height: 45px;
+    background-color: azure;
+     margin: 0px 0px 10px;0px;
+}
+
+
+div.fotter{
+    text-align: end;
+     width: 1000px;
+    height: 40px;
+    margin: 10px 0px 0px 0px;
+    background-color: chartreuse;
+    margin: 150px 0px 0px 200px;
+}
+
+
+
